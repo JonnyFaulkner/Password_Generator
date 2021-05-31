@@ -9,6 +9,7 @@ A application to randomly generate passwords.
 * JavaScript
 
 ## Website
+https://jonnyfaulkner.github.io/Password_Generator/
 
 ## Contribution
 JavaScript written by Jonathan Faulkner
